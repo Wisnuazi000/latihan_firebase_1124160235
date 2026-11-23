@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "622001813879",
+    "project_id": "aplikasi-mobile-49049",
+    "storage_bucket": "aplikasi-mobile-49049.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622001813879:android:ef732c634f34b433f6c972",
+        "android_client_info": {
+          "package_name": "com.aplikasiMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622001813879-sm2gq0hfj0ub0dpof54u10eqrudvnr0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3drzoED1BRO4Qq6NGS-j8wXGZGjI9QoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622001813879-sm2gq0hfj0ub0dpof54u10eqrudvnr0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622001813879:android:579a2dea890a9a38f6c972",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622001813879-sm2gq0hfj0ub0dpof54u10eqrudvnr0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3drzoED1BRO4Qq6NGS-j8wXGZGjI9QoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622001813879-sm2gq0hfj0ub0dpof54u10eqrudvnr0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
